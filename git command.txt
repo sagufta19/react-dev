@@ -1,0 +1,1 @@
+git remote set-url origin https://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@github.com/sagufta19/Java-Practice
