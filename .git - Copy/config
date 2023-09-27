@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://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@github.com/sagufta19/react-dev
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "sagufta19"]
+	url = https://github.com/sagufta19/Sagufta-React
+	fetch = +refs/heads/*:refs/remotes/sagufta19/*
+[remote "react-dev"]
+	url = https://github.com/sagufta19/react-dev.git
+	fetch = +refs/heads/*:refs/remotes/react-dev/*
