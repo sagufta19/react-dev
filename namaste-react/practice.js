@@ -17,5 +17,10 @@ const HeaderComponent=()=>(
     </div>
 );
 
+const Sub=()=>{
+    <div id="subject">This is subject</div>
+}
+
 const root=ReactDOM.createRoot(document.createElementById("root"));
 root.render(heading);
+
