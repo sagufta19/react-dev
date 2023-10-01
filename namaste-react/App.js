@@ -14,8 +14,6 @@ const heading = (
     return (
       <div>
         <Title/>
-        {/* we can also use <Title()> */}
-        {/* we can also use <Title></Title> */}
         {console.log(10)}
       <h1>Namaste React Functional component</h1>
       <h2>This is h2 tag</h2>
@@ -23,5 +21,4 @@ const heading = (
     )
   }
   const root = ReactDOM.createRoot(document.getElementById("root"));
-// passing react element inside root
 root.render(<HeaderComponent/>);  
