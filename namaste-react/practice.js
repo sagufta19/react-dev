@@ -9,7 +9,6 @@ const title=(
         Namste React Using JSX!
     </h1>
 );
-
 const HeaderComponent=()=>(
     <div id="container">
         {title}
